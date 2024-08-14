@@ -1,4 +1,4 @@
-package org.example.AbstractFactoryPattern;
+package org.example.AnimalAbstractFactoryPattern;
 
 public class DinosaurMosozoicAnimalFactory implements EraAnimalFactory{
     @Override

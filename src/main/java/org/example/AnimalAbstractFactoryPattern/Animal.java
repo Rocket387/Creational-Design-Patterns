@@ -1,4 +1,4 @@
-package org.example.AbstractFactoryPattern;
+package org.example.AnimalAbstractFactoryPattern;
 
 public abstract class Animal {
 

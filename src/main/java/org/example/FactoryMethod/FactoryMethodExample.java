@@ -1,9 +1,8 @@
 package org.example.FactoryMethod;
 
 /*
-Factory Method Design Pattern define an interface for creating an object,
-but let subclass decide which class to instantiate.
-Factory Method lets a class defer instantiation to subclass.
+The Factory pattern deals with
+creating objects of a single type
  */
 public class FactoryMethodExample {
 

@@ -1,4 +1,4 @@
-package org.example.AbstractFactoryPattern;
+package org.example.AnimalAbstractFactoryPattern;
 
 public class SkyAnimal extends Animal{
     SkyAnimal(AnimalEra era, String name) {

@@ -1,5 +1,9 @@
-package org.example.AbstractFactoryPattern;
+package org.example.AnimalAbstractFactoryPattern;
 
+/*
+Abstract Factory pattern deals with
+creating objects of related types
+ */
 public class AbstractFactoryRunner {
 
     public static void main(String[] args) {
