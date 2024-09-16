@@ -12,3 +12,7 @@ https://www.digitalocean.com/community/tutorials/builder-design-pattern-in-java
 
 Prototype Design Pattern
 https://www.geeksforgeeks.org/prototype-design-pattern-in-java/
+
+
+Singleton
+https://www.geeksforgeeks.org/singleton-class-java/
